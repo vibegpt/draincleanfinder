@@ -2,6 +2,258 @@
   "redirects": [
     {
       "source": "/drain-cleaning/phoenix-az/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/phoenix/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/phoenix-az",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/phoenix/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/mesa-az/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/mesa/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/mesa-az",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/mesa/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/scottsdale-az/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/scottsdale/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/scottsdale-az",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/scottsdale/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/tempe-az/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/tempe/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/tempe-az",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/tempe/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/gilbert-az/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/gilbert/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/gilbert-az",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/gilbert/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/tucson-az/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/tucson/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/tucson-az",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/arizona/tucson/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/denver-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/denver/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/denver-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/denver/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/aurora-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/aurora/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/aurora-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/aurora/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/boulder-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/boulder/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/boulder-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/boulder/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/broomfield-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/broomfield/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/broomfield-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/broomfield/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/arvada-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/arvada/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/arvada-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/arvada/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/castle-rock-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/castle-rock/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/castle-rock-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/castle-rock/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/colorado-springs-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/colorado-springs/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/colorado-springs-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/colorado-springs/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/englewood-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/englewood/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/englewood-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/englewood/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/fort-collins-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/fort-collins/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/fort-collins-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/fort-collins/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/greeley-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/greeley/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/greeley-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/greeley/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/highlands-ranch-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/highlands-ranch/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/highlands-ranch-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/highlands-ranch/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/lakewood-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/lakewood/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/lakewood-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/lakewood/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/littleton-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/littleton/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/littleton-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/littleton/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/longmont-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/longmont/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/longmont-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/longmont/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/westminster-co/",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/westminster/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/westminster-co",
+      "has": [{ "type": "host", "value": "www.draincleanfinder.com" }],
+      "destination": "https://draincleanfinder.com/drain-cleaning/colorado/westminster/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/phoenix-az/",
       "destination": "https://draincleanfinder.com/drain-cleaning/arizona/phoenix/",
       "permanent": true
     },
