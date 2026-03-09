@@ -1,0 +1,96 @@
+{
+  "url": "http://localhost:58249",
+  "timestamp": "2026-03-09T20:36:18.217285",
+  "ILS": 89.96,
+  "breakdown": {
+    "crawl_depth": {
+      "score": 40.0,
+      "max": 40,
+      "detail": {
+        "total_pages": 26,
+        "within_3_clicks": 26,
+        "pct_within_3": 100.0,
+        "score": 40.0
+      }
+    },
+    "orphan_rate": {
+      "score": 30.0,
+      "max": 30,
+      "detail": {
+        "total_pages": 26,
+        "orphan_count": 0,
+        "orphan_rate": 0.0,
+        "sample_orphans": [],
+        "score": 30.0
+      }
+    },
+    "pagerank_distribution": {
+      "score": 14.96,
+      "max": 20,
+      "detail": {
+        "gini_coefficient": 0.2521,
+        "top_10_pages": [
+          [
+            "http://localhost:58249/",
+            0.038276
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/",
+            0.038276
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/arizona/phoenix/",
+            0.029453
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/arizona/scottsdale/",
+            0.029453
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/arizona/mesa/",
+            0.029453
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/arizona/tucson/",
+            0.029453
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/colorado/denver/",
+            0.028692
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/colorado/colorado-springs/",
+            0.028692
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/colorado/aurora/",
+            0.028692
+          ],
+          [
+            "http://localhost:58249/drain-cleaning/colorado/boulder/",
+            0.028692
+          ]
+        ],
+        "score": 14.96
+      }
+    },
+    "hub_connectivity": {
+      "score": 5.0,
+      "max": 10,
+      "detail": {
+        "total_city_pages_checked": 21,
+        "hub_links_to_city_pct": 100.0,
+        "city_links_to_hub_pct": 0.0,
+        "score": 5.0
+      }
+    }
+  },
+  "page_count": 26,
+  "page_types": {
+    "homepage": 2,
+    "national_hub": 1,
+    "state_hub": 2,
+    "city": 21,
+    "other": 0
+  }
+}

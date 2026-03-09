@@ -392,6 +392,22 @@
       "destination": "/drain-cleaning/colorado/westminster/index.html"
     },
     {
+      "source": "/drain-cleaning/colorado/",
+      "destination": "/drain-cleaning/colorado/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado",
+      "destination": "/drain-cleaning/colorado/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/",
+      "destination": "/drain-cleaning/arizona/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona",
+      "destination": "/drain-cleaning/arizona/index.html"
+    },
+    {
       "source": "/drain-cleaning/",
       "destination": "/drain-cleaning-pillar.html"
     },
