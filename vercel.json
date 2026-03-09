@@ -1,0 +1,403 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.draincleanfinder.com"
+        }
+      ],
+      "destination": "https://draincleanfinder.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/phoenix-az/",
+      "destination": "/drain-cleaning/arizona/phoenix/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/phoenix-az",
+      "destination": "/drain-cleaning/arizona/phoenix/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/mesa-az/",
+      "destination": "/drain-cleaning/arizona/mesa/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/mesa-az",
+      "destination": "/drain-cleaning/arizona/mesa/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/scottsdale-az/",
+      "destination": "/drain-cleaning/arizona/scottsdale/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/scottsdale-az",
+      "destination": "/drain-cleaning/arizona/scottsdale/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/tempe-az/",
+      "destination": "/drain-cleaning/arizona/tempe/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/tempe-az",
+      "destination": "/drain-cleaning/arizona/tempe/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/gilbert-az/",
+      "destination": "/drain-cleaning/arizona/gilbert/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/gilbert-az",
+      "destination": "/drain-cleaning/arizona/gilbert/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/tucson-az/",
+      "destination": "/drain-cleaning/arizona/tucson/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/tucson-az",
+      "destination": "/drain-cleaning/arizona/tucson/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/denver-co/",
+      "destination": "/drain-cleaning/colorado/denver/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/denver-co",
+      "destination": "/drain-cleaning/colorado/denver/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/aurora-co/",
+      "destination": "/drain-cleaning/colorado/aurora/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/aurora-co",
+      "destination": "/drain-cleaning/colorado/aurora/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/boulder-co/",
+      "destination": "/drain-cleaning/colorado/boulder/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/boulder-co",
+      "destination": "/drain-cleaning/colorado/boulder/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/broomfield-co/",
+      "destination": "/drain-cleaning/colorado/broomfield/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/broomfield-co",
+      "destination": "/drain-cleaning/colorado/broomfield/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/arvada-co/",
+      "destination": "/drain-cleaning/colorado/arvada/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/arvada-co",
+      "destination": "/drain-cleaning/colorado/arvada/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/castle-rock-co/",
+      "destination": "/drain-cleaning/colorado/castle-rock/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/castle-rock-co",
+      "destination": "/drain-cleaning/colorado/castle-rock/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/colorado-springs-co/",
+      "destination": "/drain-cleaning/colorado/colorado-springs/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/colorado-springs-co",
+      "destination": "/drain-cleaning/colorado/colorado-springs/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/englewood-co/",
+      "destination": "/drain-cleaning/colorado/englewood/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/englewood-co",
+      "destination": "/drain-cleaning/colorado/englewood/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/fort-collins-co/",
+      "destination": "/drain-cleaning/colorado/fort-collins/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/fort-collins-co",
+      "destination": "/drain-cleaning/colorado/fort-collins/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/greeley-co/",
+      "destination": "/drain-cleaning/colorado/greeley/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/greeley-co",
+      "destination": "/drain-cleaning/colorado/greeley/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/highlands-ranch-co/",
+      "destination": "/drain-cleaning/colorado/highlands-ranch/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/highlands-ranch-co",
+      "destination": "/drain-cleaning/colorado/highlands-ranch/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/lakewood-co/",
+      "destination": "/drain-cleaning/colorado/lakewood/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/lakewood-co",
+      "destination": "/drain-cleaning/colorado/lakewood/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/littleton-co/",
+      "destination": "/drain-cleaning/colorado/littleton/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/littleton-co",
+      "destination": "/drain-cleaning/colorado/littleton/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/longmont-co/",
+      "destination": "/drain-cleaning/colorado/longmont/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/longmont-co",
+      "destination": "/drain-cleaning/colorado/longmont/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/westminster-co/",
+      "destination": "/drain-cleaning/colorado/westminster/",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning/westminster-co",
+      "destination": "/drain-cleaning/colorado/westminster/",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/drain-cleaning/arizona/phoenix/",
+      "destination": "/drain-cleaning/arizona/phoenix/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/phoenix",
+      "destination": "/drain-cleaning/arizona/phoenix/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/mesa/",
+      "destination": "/drain-cleaning/arizona/mesa/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/mesa",
+      "destination": "/drain-cleaning/arizona/mesa/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/scottsdale/",
+      "destination": "/drain-cleaning/arizona/scottsdale/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/scottsdale",
+      "destination": "/drain-cleaning/arizona/scottsdale/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/tempe/",
+      "destination": "/drain-cleaning/arizona/tempe/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/tempe",
+      "destination": "/drain-cleaning/arizona/tempe/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/gilbert/",
+      "destination": "/drain-cleaning/arizona/gilbert/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/gilbert",
+      "destination": "/drain-cleaning/arizona/gilbert/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/tucson/",
+      "destination": "/drain-cleaning/arizona/tucson/index.html"
+    },
+    {
+      "source": "/drain-cleaning/arizona/tucson",
+      "destination": "/drain-cleaning/arizona/tucson/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/denver/",
+      "destination": "/drain-cleaning/colorado/denver/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/denver",
+      "destination": "/drain-cleaning/colorado/denver/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/aurora/",
+      "destination": "/drain-cleaning/colorado/aurora/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/aurora",
+      "destination": "/drain-cleaning/colorado/aurora/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/boulder/",
+      "destination": "/drain-cleaning/colorado/boulder/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/boulder",
+      "destination": "/drain-cleaning/colorado/boulder/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/broomfield/",
+      "destination": "/drain-cleaning/colorado/broomfield/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/broomfield",
+      "destination": "/drain-cleaning/colorado/broomfield/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/arvada/",
+      "destination": "/drain-cleaning/colorado/arvada/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/arvada",
+      "destination": "/drain-cleaning/colorado/arvada/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/castle-rock/",
+      "destination": "/drain-cleaning/colorado/castle-rock/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/castle-rock",
+      "destination": "/drain-cleaning/colorado/castle-rock/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/colorado-springs/",
+      "destination": "/drain-cleaning/colorado/colorado-springs/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/colorado-springs",
+      "destination": "/drain-cleaning/colorado/colorado-springs/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/englewood/",
+      "destination": "/drain-cleaning/colorado/englewood/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/englewood",
+      "destination": "/drain-cleaning/colorado/englewood/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/fort-collins/",
+      "destination": "/drain-cleaning/colorado/fort-collins/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/fort-collins",
+      "destination": "/drain-cleaning/colorado/fort-collins/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/greeley/",
+      "destination": "/drain-cleaning/colorado/greeley/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/greeley",
+      "destination": "/drain-cleaning/colorado/greeley/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/highlands-ranch/",
+      "destination": "/drain-cleaning/colorado/highlands-ranch/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/highlands-ranch",
+      "destination": "/drain-cleaning/colorado/highlands-ranch/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/lakewood/",
+      "destination": "/drain-cleaning/colorado/lakewood/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/lakewood",
+      "destination": "/drain-cleaning/colorado/lakewood/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/littleton/",
+      "destination": "/drain-cleaning/colorado/littleton/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/littleton",
+      "destination": "/drain-cleaning/colorado/littleton/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/longmont/",
+      "destination": "/drain-cleaning/colorado/longmont/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/longmont",
+      "destination": "/drain-cleaning/colorado/longmont/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/westminster/",
+      "destination": "/drain-cleaning/colorado/westminster/index.html"
+    },
+    {
+      "source": "/drain-cleaning/colorado/westminster",
+      "destination": "/drain-cleaning/colorado/westminster/index.html"
+    },
+    {
+      "source": "/drain-cleaning/",
+      "destination": "/drain-cleaning-pillar.html"
+    },
+    {
+      "source": "/drain-cleaning",
+      "destination": "/drain-cleaning-pillar.html"
+    }
+  ]
+}
